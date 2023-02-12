@@ -1,0 +1,2 @@
+oops there was some text before but
+ on using "w" mode it overwrites
